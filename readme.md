@@ -16,7 +16,7 @@
 	<p>
 		<p>
 			<sup>
-				<a href="https://github.com/sponsors/sindresorhus">Sindre's open source work is supported by the community</a>
+				<a href="https://github.com/sponsors/Unity-Billal-mesloub">Sindre's open source work is supported by the community</a>
 			</sup>
 		</p>
 		<sup>Special thanks to:</sup>
@@ -449,13 +449,7 @@ await execa`npm run build`;
 await execa`npm run test`;
 ```
 
-## Related
-
-- [nano-spawn](https://github.com/sindresorhus/nano-spawn) - Like Execa but [smaller](docs/small.md)
-- [gulp-execa](https://github.com/ehmicky/gulp-execa) - Gulp plugin for Execa
-- [nvexeca](https://github.com/ehmicky/nvexeca) - Run Execa using any Node.js version
-
 ## Maintainers
 
-- [Sindre Sorhus](https://github.com/sindresorhus)
-- [@ehmicky](https://github.com/ehmicky)
+- [Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub)
+
